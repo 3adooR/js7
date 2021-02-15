@@ -2,6 +2,32 @@
 
 **Task #7**
 
+To run application:
+```
+npm start
+```
+
+Query example:
+```
+{
+    carts {
+        id       
+        user {      
+          id
+          login
+        }
+        products {
+          id
+          name
+          detail
+          price      
+          image
+        }
+        order_date
+    }
+}
+```
+
 # GraphQL Server
 
 **Часть 1.**

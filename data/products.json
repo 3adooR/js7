@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "detail": "Lorem ipsum dolor sit amet 1",
+    "price": "12.34",
+    "image": "http://placehold.it/940x300/999/CCC"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "detail": "Lorem ipsum dolor sit amet 2",
+    "price": "999.99",
+    "image": "http://placehold.it/300x300/999/CCC"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "detail": "Lorem ipsum dolor sit amet 3",
+    "price": "1000000",
+    "image": "http://placehold.it/240x300/999/CCC"
+  }
+]
